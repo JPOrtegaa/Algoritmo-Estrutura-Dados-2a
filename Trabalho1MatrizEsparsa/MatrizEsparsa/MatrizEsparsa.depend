@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1645047498 source:c:\1faculdade\2ano\aed\trabalhos\trabalho1matrizesparsa\matrizesparsa\main.c
+	"matrizEsparsa.h"
+	<stdio.h>
+	<stdlib.h>
+
+1645047461 c:\1faculdade\2ano\aed\trabalhos\trabalho1matrizesparsa\matrizesparsa\matrizesparsa.h
+	<stdio.h>
+
+1645047498 source:c:\1faculdade\2ano\aed\trabalhos\trabalho1matrizesparsa\matrizesparsa\matrizesparsa.c
+	"matrizEsparsa.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

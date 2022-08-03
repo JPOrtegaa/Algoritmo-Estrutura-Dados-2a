@@ -1,0 +1,20 @@
+I;    100    ;        Joao da Silva     ;   11111111111      ;     CRP/SP 123456       ;  Av Brasil 123      ;     4535768000     
+    I   ;   20    ;      Maria dos Santos      ;      22222222222        ;CRM/PR 234567         ;Av Brasil 456         ;    4535768001     
+    I    ;50;                Pedro Pereira                      ;33333333333;CRM/MG 345678;Av Brasil 789;4535761111
+    I     ;30    ;Joaquim Souza;     44444444444;     CRM/RJ 456789       ;        Rua Almirante Barroso 123        ;  4535762222     
+    I  ;    7;   Manuel da Silva                ; 55555555555; CRM/DF 567890;   Av Parana 123;4535763333
+    I ;    11     ;  Ana dos Santos             ;66666666666;   CRO-SP 123456;   Rua Almirante Barroso 456;     4535764444
+    I  ;    70    ;  Jose de Souza           ;   77777777777;  CRP 08/12345;  Av Parana 456;    4535765555   
+    I  ;    10    ; Mario Soares           ;  88888888888;CRP 07/23456;  Rua Almirante Barroso 789                         ;     453576777777
+    I     ;  40  ;   Carla Pereira             ;   99999999999;CREFITO-8 12345 - F;   Av Brasil 123;   4535769999   
+    I               ;33;Jorge Santos             ;12345678911;CRM/SC 654321;Av Parana 789;     4533331111
+    I    ; 9   ;Fernando da Silva             ;12345678922;CREFITO-5 23456 - F;Av Costa e Silva 123;4533332222     
+    A       ;  11   ;          Rua Rui Barbosa 456         ;        45999991234         
+    I       ;  90   ;Carlos Ribeiro             ;12345678933;CRM/PR 123123;Av Costa e Silva 456;     4533334444  
+    R       ;    33  
+    I      ;   17    ;Luiz dos Santos;12345678944;CRO-PR 12312;Rua Taroba 123;     4533335555
+    I      ;5;Lazaro da Silva             ;12345678955;CRP 09/54321;Av Costa e Silva 789;4533336666
+    R     ;20    
+    A      ;   100    ;        ;            45999994321                 
+A;90;         Av Getulio Vargas 888          ;
+I      ;    77;Fulano de Tal           ;12345678966;CRM/BA 123456;Rua Taroba 456;   4533337777    
