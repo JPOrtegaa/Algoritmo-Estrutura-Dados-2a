@@ -1,0 +1,9 @@
+metodo in place ou estavel
+
+algoritmo estavel mantem a ordem original, se nao for preciso modificar
+algoritmo in place usa a propria estrutura de dados que esta sendo mexida para organizar, nao usando estrutura adicional
+
+
+
+1 1 3 4 5
+
