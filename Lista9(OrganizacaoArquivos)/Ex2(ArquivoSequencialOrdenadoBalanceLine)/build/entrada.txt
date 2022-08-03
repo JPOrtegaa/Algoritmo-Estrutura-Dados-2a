@@ -1,0 +1,3 @@
+Joao Ortega;20;Rua Candido Portinari, 750;Foz do Iguacu;85865010;45998277117;04851246960
+Arthur Silva;20;Rua Candido Portinari, 750;Foz do Iguacu;85865010;45998277117;04851246960
+Maria Joaquina;20;Rua Candido Portinari, 750;Foz do Iguacu;85865010;45998277117;04851246960
